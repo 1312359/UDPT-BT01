@@ -1,0 +1,66 @@
+ul {
+    list-style-type: none; /* bo dau cham" trong danh sach */
+    margin: 0;
+    padding: 0;    /* bo canh le cua danh sach */
+    overflow: hidden;
+}
+#banner {
+	z-index: -1;
+	position: relative;
+	height: 100px;
+}
+
+#top-menu li {
+    float: left; /* noi list canh ben trai */
+}
+
+#top-menu ul {
+	background-color: #333333; /* mau nen den */
+}
+
+#top-menu {
+	position: relative;
+}
+
+li a {
+    display: block;  /* hien link theo khoi"  */
+    color: white;  /* mau chu~ */
+    text-align: center; /* chu~ giua khoi */
+    padding: 14px 16px; /* top = bot = 14, left = right = 16 */
+    text-decoration: none; /* bo dau gach chan mac dinh cua link */
+}
+
+a:hover:not(.active) {  /* set mau sac background khi di chuyen chuot den" */
+    background-color: #000033;
+}
+
+.active {
+	background-color: green; /* khi dang o trang nay */
+}
+
+#left {
+	width: 15%;
+	height: 1500px;
+	float: left;
+	position: relative;
+}
+#right {
+	position: relative;
+	height: 1500px;
+	width: 85%;
+	float: right;
+}
+
+div {
+	background: url(back.jpg) no-repeat;
+    background-attachment: fixed;
+}
+
+#right img {
+	height: 650px;
+	width: auto;
+}
+
+p {
+	color: while;
+}
