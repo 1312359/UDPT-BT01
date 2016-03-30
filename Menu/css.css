@@ -35,7 +35,7 @@ a:hover:not(.active) {  /* set mau sac background khi di chuyen chuot den" */
 }
 
 .active {
-	background-color: green; /* khi dang o trang nay */
+	background-color: green; 
 }
 
 #left {
@@ -52,15 +52,30 @@ a:hover:not(.active) {  /* set mau sac background khi di chuyen chuot den" */
 }
 
 div {
-	background: url(back.jpg) no-repeat;
+	background: url(http://www.hdwallpapers.in/walls/water_drops_on_glass-wide.jpg) no-repeat; /* anh nen */
     background-attachment: fixed;
 }
 
 #right img {
-	height: 650px;
+	margin: 20px 50px;
+	float: left;
+	height: 400px;
 	width: auto;
 }
 
-p {
-	color: while;
+#right {
+	font-family: cursive;
+	color: #00ee00;
+	text-align: left;
+}
+
+#right h2 {
+	color: red;
+	font-weight: bold;
+}
+
+.template {
+	color: #66FFFF;
+	font-weight: bold;
+	font-family: Tahoma;
 }
