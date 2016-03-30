@@ -40,13 +40,13 @@ a:hover:not(.active) {  /* set mau sac background khi di chuyen chuot den" */
 
 #left {
 	width: 15%;
-	height: 1500px;
+	height: 600px;
 	float: left;
 	position: relative;
 }
 #right {
 	position: relative;
-	height: 1500px;
+	height: 600px;
 	width: 85%;
 	float: right;
 }
@@ -78,4 +78,13 @@ div {
 	color: #66FFFF;
 	font-weight: bold;
 	font-family: Tahoma;
+}
+
+#footer {
+  position: fixed;
+  float : center;
+  bottom: 0;
+  left: 0;
+  height: 70px;
+  width: 100%;
 }
