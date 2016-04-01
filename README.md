@@ -21,15 +21,15 @@ Yêu cầu **GIT**:
 Yêu cầu **thiết kế**:
 
 * [ ] Thiết kế theo table.
-* [ x] Thiết kế với div.
-* [ x] Thiết kế nâng cao
-    * [ x] Navigation, header, footer, sidebar.
-    * [ x] Các hiệu ứng: hover, focus,...
-* [ x] Thiết kế chạy trên nhiều trình duyệt
-    * [ x] IE
-    * [ x] Firefox
-    * [ x] Chrome
-    * [ x] Icon, màu sắc,...
+* [x] Thiết kế với div.
+* [x] Thiết kế nâng cao
+    * [x] Navigation, header, footer, sidebar.
+    * [x] Các hiệu ứng: hover, focus,...
+* [x] Thiết kế chạy trên nhiều trình duyệt
+    * [x] IE
+    * [x] Firefox
+    * [x] Chrome
+    * [x] Icon, màu sắc,...
 * [ ] Thiết kế responsive
 
 Liệt kê các **yêu cầu nâng cao** đã thực hiện:
