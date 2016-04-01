@@ -21,11 +21,11 @@ Yêu cầu **GIT**:
 Yêu cầu **thiết kế**:
 
 * [ ] Thiết kế theo table.
-* [ ] Thiết kế với div.
-* [ ] Thiết kế nâng cao
+* [ x] Thiết kế với div.
+* [ x] Thiết kế nâng cao
     * [ x] Navigation, header, footer, sidebar.
     * [ x] Các hiệu ứng: hover, focus,...
-* [ ] Thiết kế chạy trên nhiều trình duyệt
+* [ x] Thiết kế chạy trên nhiều trình duyệt
     * [ x] IE
     * [ x] Firefox
     * [ x] Chrome
